@@ -1,4 +1,4 @@
-# Print only Box shape
+# Print box shape
 
 
 n = 5

@@ -8,7 +8,6 @@ while n > 100:
     a = n % 10
     rev = rev * 10 + a
     n = n // 10
-
 rev = rev*100 + n
 
 print(rev)
